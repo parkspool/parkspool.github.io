@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Parks Pool
 
-You can use the [editor on GitHub](https://github.com/parkspool/parkspool.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Our mission is to provide consistent returns to our delegators, and to donte 5% of the pool margin towards national and state parks across the world. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
